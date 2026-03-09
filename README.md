@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:keerthika A</h3>
-<h3>Register Number:212224220048         </h3>
+<h3>Name:keerthika A </h3>
+<h3>Register Number: 212224220048        </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -25,17 +25,15 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 <hr>
 <h2>Sample Input and Output:</h2>
 
-
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8d5e329a-9aff-41a6-bcf0-46efa10e1b92)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/438b242d-54ba-443e-b040-a936e6ae3b55)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/99a33390-fa11-4ade-a19f-e93bcd7aaec9)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/440797bd-53cb-49c1-b18d-89776864c3e7)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
 
-<h2> Program: </h2>
+<h2>PROGRAM</h2>
 
-```py
-
+<code><pre>
 import time
 
 class Game:
@@ -211,16 +209,17 @@ class Game:
 
 g = Game()
 g.play_alpha_beta()
-```
+</pre></code>
 
-<h2> Output: </h2>
+<h2>OUTPUT</h2>
 
-![alt text](image.png)
+<img width="502" height="884" alt="image" src="https://github.com/user-attachments/assets/51eba062-d214-4623-8042-def62834c3c7" />
+<br>
+<img width="347" height="808" alt="image" src="https://github.com/user-attachments/assets/afee9aab-a5c3-4c39-8f4f-513d50f886b6" />
+<br>
+<img width="390" height="116" alt="image" src="https://github.com/user-attachments/assets/68ce01e4-6971-4c08-a0f3-4f0d57b4b25c" />
 
-![alt text](image-1.png)
+<h2>RESULT</h2>
 
-
-<h2> Result: </h2>
-
-Hence Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game has been implemented.
+<p>Thus, to implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game is executed successfully</p>
 
